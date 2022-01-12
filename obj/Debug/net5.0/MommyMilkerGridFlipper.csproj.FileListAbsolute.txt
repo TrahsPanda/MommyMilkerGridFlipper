@@ -1,0 +1,16 @@
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\MommyMilkerGridFlipper.exe
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\MommyMilkerGridFlipper.deps.json
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\MommyMilkerGridFlipper.runtimeconfig.json
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\MommyMilkerGridFlipper.runtimeconfig.dev.json
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\MommyMilkerGridFlipper.dll
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\ref\MommyMilkerGridFlipper.dll
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\bin\Debug\net5.0\MommyMilkerGridFlipper.pdb
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.csproj.AssemblyReference.cache
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.AssemblyInfoInputs.cache
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.AssemblyInfo.cs
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.csproj.CoreCompileInputs.cache
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.dll
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\ref\MommyMilkerGridFlipper.dll
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.pdb
+C:\Users\zupdi\source\repos\MommyMilkerGridFlipper\obj\Debug\net5.0\MommyMilkerGridFlipper.genruntimeconfig.cache
